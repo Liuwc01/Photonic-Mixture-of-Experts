@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this supplementary package, please cite the associated manuscript."
+title: "Photonic Mixture-of-Experts for scalable on-chip multi-task optical neural networks"
+type: article
+authors:
+  - "Wencan Liu, Zhenghang Zhang, Peng Meng Chan, Sun Run, Yutong He, Yuhao Wang,Caihua Zhang, Sigang Yang, Tingzhao Fu, Yuyao Huang, Hongwei Chen"
+repository-code: "https://github.com/Liuwc01/Photonic-Mixture-of-Experts"
+abstract: "Supplementary data and code package for the manuscript Photonic Mixture-of-Experts for scalable on-chip multi-task optical neural networks."
+keywords:
+  - photonic neural networks
+  - mixture of experts
+  - optical computing
+  - multi-task learning
+license: "license: "CC-BY-4.0"
