@@ -4,7 +4,7 @@ This repository contains the supplementary package accompanying the manuscript:
 
 **Photonic Mixture-of-Experts for scalable on-chip multi-task optical neural networks**
 
-![PMoE processing pipeline](assets/pmoe_pipeline.TIF)
+![PMoE processing pipeline](assets/pmoe_pipeline.jpg)
 
 The package provides the raw dataset subsets used in the manuscript, the experimental input and output data for the photonic expert networks (PENs), PMoE network construction and training code, pretrained/output results, and the source data used to generate figures in the manuscript and supplementary materials.
 
