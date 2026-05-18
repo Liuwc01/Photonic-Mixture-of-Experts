@@ -1,4 +1,4 @@
-# Photonic Mixture-of-Experts Supplementary Package
+# Photonic Mixture-of-Experts (PMoE)
 
 This repository contains the supplementary package accompanying the manuscript:
 
